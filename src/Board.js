@@ -96,8 +96,6 @@ function Board({ nrows = 3, ncols = 3, chanceLightStartsOn = 0.5 }) {
 			<tbody>{tableBoard}</tbody>
 		</table>
 	);
-
-	// TODO
 }
 
 export default Board;
