@@ -1,3 +1,9 @@
 .Board {
   margin: 0 auto;
+  border-style: solid;
+  border-color: black;
+}
+.Board-win{
+  text-align: center;
+  font-size:x-large;
 }
